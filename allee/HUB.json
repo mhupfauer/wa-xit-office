@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/Allee\/allee-west.json"
+                 "value":"..\/allee\/allee-west.json"
                 }],
          "type":"tilelayer",
          "visible":true,
