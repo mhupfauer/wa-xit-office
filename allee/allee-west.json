@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/HUB.json"
+                 "value":"\/Allee\/HUB.json"
                 }],
          "type":"tilelayer",
          "visible":true,
