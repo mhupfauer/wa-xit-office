@@ -27,6 +27,12 @@
          "id":14,
          "name":"_exitEntrence",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"\/HUB.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
