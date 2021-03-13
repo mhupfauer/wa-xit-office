@@ -1,6 +1,6 @@
-# WorkAdventure Map Starter Kit
+# XITASO Office Rebuild
+Rebuild of XITASOs office spaces for use with Workadventure.
 
-This is a starter kit to help you build your own map for [WorkAdventure](https://workadventu.re).
-
-To understand how to use this starter kit, follow the tutorial at [https://workadventu.re/map-building](https://workadventu.re/map-building).
-
+# LICENSE
+All rights reserved 2021 XITASO GmbH
+Copyright 2021 XITASO GmbH
